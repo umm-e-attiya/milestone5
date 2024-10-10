@@ -1,0 +1,44 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: Arial,  sans-serif;
+    
+}
+
+form{
+    background-color: lightcyan;
+    margin: auto;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#resumeOutput{
+    background-color: lightslategray;
+}
+#generateresume{
+    cursor: pointer;
+    max-width: 200px;
+}
+
+#generateresume:hover{
+    color: lightsalmon;
+
+}
+
+
+#shareable-link-container{
+    background-color: lightslategray;
+    
+}
+#shareable-link{
+    text-decoration: none;
+
+}
+#download-pdf{
+    cursor: pointer;
+    max-width: 200px;
+}
+
+#download-pdf:hover{
+    color: lightsalmon;
+}
+
